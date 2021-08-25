@@ -2,7 +2,6 @@ venv/
 db.sqlite3
 src/static/*
 
-# frontend
 .DS_Store
 node_modules
 /dist
